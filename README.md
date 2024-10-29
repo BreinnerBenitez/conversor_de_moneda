@@ -36,6 +36,8 @@ Al ejecutar el programa, se mostrará un menú con tres opciones:
 
 ![Captura de pantalla de mostrarDatos.jsp](img/menu.JPG)
 
+![Captura de pantalla de mostrarDatos.jsp](img/menu1.JPG)
+
 ![Captura de pantalla de mostrarDatos.jsp](img/menu2.JPG)
 
 ![Captura de pantalla de mostrarDatos.jsp](img/menu3.JPG)
