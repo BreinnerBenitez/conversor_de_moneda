@@ -18,6 +18,7 @@ Esta es una aplicación Java de consola que permite convertir cantidades de una 
 - **Librerías Externas**:
   - `javax.swing.JOptionPane` para mostrar cuadros de diálogo en la interfaz de usuario.
   - API para tasas de cambio (opcional dependiendo del origen de datos).
+  - Gson para  la serialización y deserialización entre objetos Java y su representación en notación JSON
 
 ## Uso
 
@@ -32,6 +33,27 @@ Al ejecutar el programa, se mostrará un menú con tres opciones:
 1. Selecciona la opción **Convertir Divisa** en el menú.
 2. Ingresa la cantidad a convertir, el código de la divisa de origen (por ejemplo, `USD`), y el código de la divisa de destino (por ejemplo, `COP`).
 3. Obtendrás el monto equivalente en la divisa de destino.
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu2.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu3.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu4.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu5.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu6error.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu7error.JPG)
+
+
+
+
+
+
+
 
 ### Estructura de Código
 
