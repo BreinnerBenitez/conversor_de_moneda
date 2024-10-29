@@ -1,6 +1,8 @@
 # Convertidor de Divisas en Java
 
+![Captura de pantalla de mostrarDatos.jsp](img/divisas.jpeg)
 
+![Captura de pantalla de mostrarDatos.jsp](img/imgen2.JPG)
 
 Esta es una aplicación Java de consola que permite convertir cantidades de una moneda a otra utilizando tasas de cambio obtenidas de una API. La aplicación proporciona un menú interactivo para realizar conversiones de divisas, listar divisas disponibles y salir de la aplicación.
 
