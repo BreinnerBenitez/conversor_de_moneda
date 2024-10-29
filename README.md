@@ -61,3 +61,5 @@ Al ejecutar el programa, se mostrará un menú con tres opciones:
 - **`ConvertidorDivisas`**: Clase que maneja las operaciones de conversión y listado de divisas.
 - **`ConsultaConversorMonedas`**: Clase que consume el servicio para su uso. 
 - **`Main`**: Clase principal con el menú de opciones.
+
+ ![Captura de pantalla de mostrarDatos.jsp](img/Badge-Conversor.png)
