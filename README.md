@@ -33,6 +33,27 @@ Al ejecutar el programa, se mostrará un menú con tres opciones:
 2. Ingresa la cantidad a convertir, el código de la divisa de origen (por ejemplo, `USD`), y el código de la divisa de destino (por ejemplo, `COP`).
 3. Obtendrás el monto equivalente en la divisa de destino.
 
+![Captura de pantalla de mostrarDatos.jsp](img/menu.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu2.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu3.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu4.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu5.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu6error.JPG)
+
+![Captura de pantalla de mostrarDatos.jsp](img/menu7error.JPG)
+
+
+
+
+
+
+
+
 ### Estructura de Código
 
 - **`ConversionObjeto`**: Clase que obtiene las tasas de cambio en un objeto JSON.
