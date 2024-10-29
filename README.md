@@ -18,6 +18,7 @@ Esta es una aplicación Java de consola que permite convertir cantidades de una 
 - **Librerías Externas**:
   - `javax.swing.JOptionPane` para mostrar cuadros de diálogo en la interfaz de usuario.
   - API para tasas de cambio (opcional dependiendo del origen de datos).
+  - Gson para  la serialización y deserialización entre objetos Java y su representación en notación JSON
 
 ## Uso
 
